@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(feuille-de-feutrine-epaisse-2mm-vert-format-a4.jpg);
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+
+button {
+    color: #016f32;
+    width: 200px;
+    background-color: goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+    margin-bottom: 4px;
+}
